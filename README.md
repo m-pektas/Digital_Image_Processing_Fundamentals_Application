@@ -42,7 +42,7 @@
 
 <h2>Screenshots</h2>
 
-<img src="Screenshots/1.png"/>
+<img src="/Screenshots/1.png"/>
 <img src=""/>
 <img src=""/>
 <img src=""/>
