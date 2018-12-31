@@ -42,6 +42,13 @@
 
 <h2>Screenshots</h2>
 
-<img src="./Screenshots/1.PNG"/>
+<img src="./Screenshots/1.PNG"/> <br>
+<img src="./Screenshots/2.PNG"/> <br>
+<img src="./Screenshots/3.PNG"/> <br>
+<img src="./Screenshots/4.PNG"/> <br>
+<img src="./Screenshots/5.PNG"/> <br>
+<img src="./Screenshots/6.PNG"/> <br>
+<img src="./Screenshots/7.PNG"/> <br>
+<img src="./Screenshots/8.PNG"/>
 
 
