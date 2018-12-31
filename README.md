@@ -42,7 +42,9 @@
 
 <h2>Screenshots</h2>
 
-<img src="Digital_Image_Processing_Fundamentals_Application/Screenshots/1.PNG"/>
+<img src="
+        Digital_Image_Processing_Fundamentals_Application/Screenshots/1.PNG
+      "/>
 <img src=""/>
 <img src=""/>
 <img src=""/>
