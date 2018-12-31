@@ -1,0 +1,39 @@
+﻿Özellikler:
+
+1 - Yapılan işlemleri orjinal resme "uygula" seçeneği ile uygulayabilir.
+2 - Değişiklik yapılan resmin üzerine yeni değişiklikler yapabilir.
+3 - İstenildiğinde "İşlemi geri al" seçeneği ile işlemler istenildiği kadar geri alınabilir.
+
+Yapabildiği işlemler:
+
+#Önişleme
+1 - Renkli Resmi Gri Seviyeye Dönüştürme (Yalnızra RGB resim için)
+2 - Resmi Büyültme (RGB VE GRAY)
+3 - Resmi Küçültme (RGB VE GRAY
+4 - Histogram Oluşturma (RGB VE GRAY)
+
+#Filitre Uygulama
+
+1 - Bulanıklaştırma Filtresi
+2 - Keskinleştirme Filtresi
+3 - Ortanca Filtresi
+4 - Laplace Filtresi
+5 - Kenar Bulma Filtresi
+
+
+#Morfolojik İşlemler
+
+1 - Siyah beyaz resimde genişletme
+2 - Siyah beyaz resimde erozyon
+3 - Siyah beyaz resimde açma
+4 - Siyah beyaz resimde kapama
+
+#Segmentasyon İşlemleri
+
+1 - Gri seviye resimde eşik değeri bulma (Otsu)
+2 - Siyah beyaz resimde 4’lü komşuluk ile nesne bulma ve gösterme
+3 - Gri resmi Siyah beyaza çevir.
+
+#Kayıt
+
+1- PNG ve JPEG formatında kayıt yapabilmektedir.
