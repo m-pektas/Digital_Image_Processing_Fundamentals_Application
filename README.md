@@ -1,4 +1,7 @@
 <h1> Digital_Image_Processing_Fundamentals_Application </h1>
+
+Using Tkinter for user interface.
+
 <br>
 <h2>Features:</h2>
 <br>
