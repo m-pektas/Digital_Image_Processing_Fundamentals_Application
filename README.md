@@ -16,7 +16,7 @@ Using Tkinter for user interface.
 3 - Reducing the Image (RGB AND GRAY <br>
 4 - Creating a Histogram (RGB AND GRAY) <br>
 
-<h2>Filite Application</h2>
+<h2>Filter Implementation</h2>
 <br>
 1 - Blur Filter <br>
 2 - Sharpening Filter <br>
