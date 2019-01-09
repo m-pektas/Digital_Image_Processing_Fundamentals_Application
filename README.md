@@ -51,7 +51,7 @@ Using Tkinter for user interface.
 <img src="./Screenshots/4.PNG"/> <br>
 <img src="./Screenshots/5.PNG"/> <br>
 <img src="./Screenshots/6.PNG"/> <br>
-<img src="./Screenshots/7.PNG"/> <br>
+<img src="./Screenshots/7."/> <br>
 <img src="./Screenshots/8.PNG"/>
 
 
